@@ -1,5 +1,9 @@
 # Sudoku Solver 
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Internship](https://img.shields.io/badge/Internship-SkillCraft_Technology-blue?style=for-the-badge)
+
 ## 📖 Overview
 A desktop application that automatically solves 9x9 Sudoku puzzles using a backtracking algorithm. Developed as an internship project at SkillCraft Technology, this tool features an intuitive graphical interface for inputting puzzles and computing the solution in real-time.
 
