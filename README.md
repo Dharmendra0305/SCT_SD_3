@@ -9,7 +9,7 @@ A desktop application that automatically solves 9x9 Sudoku puzzles using a backt
 
 *Here’s the main interface of the Sudoku Solver:*
 
-![img]()
+![img](https://github.com/Dharmendra0305/SCT_SD_3/blob/9bb6abd9faca9c499daed3d5fec932f95307584f/1.png)
 
 ## Features
 * **Algorithmic Solving:** Utilises an efficient Depth-First Search (DFS) backtracking algorithm.
@@ -39,7 +39,7 @@ A desktop application that automatically solves 9x9 Sudoku puzzles using a backt
 
 *- Example:*
 
-![img]()
+![img](https://github.com/Dharmendra0305/SCT_SD_3/blob/9bb6abd9faca9c499daed3d5fec932f95307584f/2.png)  ![img](https://github.com/Dharmendra0305/SCT_SD_3/blob/9bb6abd9faca9c499daed3d5fec932f95307584f/3.png)
 
 ## 🤝 Contribution Guidelines
 - Contributions are welcome! If you'd like to improve this project:
